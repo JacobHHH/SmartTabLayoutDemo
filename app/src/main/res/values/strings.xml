@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SmartTabLayoutDemo</string>
+    <string-array name="my_titles">
+        <item>11</item>
+        <item>222</item>
+        <item>3333</item>
+        <item>44444</item>
+        <item>555555</item>
+    </string-array>
+</resources>
